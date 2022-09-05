@@ -10,7 +10,9 @@
 
 
 ##Client Side
-##Install dependencies NodeJS:
+
+
+##Install dependencies React:
 > npm install
 
 
@@ -19,6 +21,8 @@
 
 
 ##Server Side
+
+
 ##Install dependencies NodeJS:
 > npm install
 
